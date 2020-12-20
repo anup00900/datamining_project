@@ -1,6 +1,6 @@
 # datamining_project
 
-QUES:To Find Semantically Similar Questions to a given Question andRank them. 
+QUES:To Find Semantically Similar Questions to a given Question and Rank them. 
 
 
 Problem DefinitionThe problem is defined as follows: Given a question q, identify questions in the corpus that are similar and related to this Question semantically.
